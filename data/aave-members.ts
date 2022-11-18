@@ -1,4 +1,6 @@
 export const aaveMembers = [
+  '0x011791', // dorka.lens
+  '0x0b24', // radi-.lens
   '0x05', // stani.lens
   '0x16', // davidev.lens,
   '0x06', // wagmi.lens
